@@ -72,7 +72,7 @@ early_stopping_callback = EarlyStopping(
 
 # Initialize ModelCheckpoint callback
 model_checkpoint_callback = ModelCheckpoint(
-    filepath='./best_model',
+    filepath='./best_model.keras',
     save_best_only=True,
     monitor='val_loss',
     mode='min'
