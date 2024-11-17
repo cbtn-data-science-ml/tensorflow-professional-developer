@@ -3,4 +3,7 @@
 .DS_Store
 .env
 .venv
-.ipynb_checkpoints
+.ipynb_checkpoints/
+26_build_multiple_layered_lstm_model/__pycache__/model_utils.cpython-311.pyc
+26_build_multiple_layered_lstm_model/model_utils.py
+26_build_multiple_layered_lstm_model/model_utils.py.1
